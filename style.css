@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+}
+h3{
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+}
+div{
+    text-align: center;
+    font-size: larger;
+}
+input{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
+    border-radius: 5px;
+    background-color: #66FAFF;
+    font-size: large;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);;
+}
+button{
+    text-align: center;
+    margin: auto;
+    display: flex;
+    display: grid;
+    border-radius: 10px;
+    background-color: greenyellow;
+    margin-top: 20px;
+    font-size: x-large;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);;
+}
+body{
+    background-color: #FF6B67;
+}
+.para{
+    text-align: center;
+    margin-top: 50px;
+    color: azure;
+}
